@@ -1,0 +1,14 @@
+numpy==1.23.1
+torch==2.1.1
+torchvision==0.16.1
+opencv-python
+matplotlib
+pillow
+imageio==2.19.3
+imageio-ffmpeg==0.4.7
+decord
+xformers==0.0.23
+einops==0.4.1
+easydict
+tqdm
+OpenEXR==3.3.1

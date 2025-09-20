@@ -1,0 +1,2 @@
+./checkpoints/video_depth_anything_vitl.pth
+./checkpoints/video_depth_anything_vits.pth
